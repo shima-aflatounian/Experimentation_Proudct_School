@@ -4,12 +4,9 @@
 
 ## Aha moment
 
-The user connects their real financial data and FinWise surfaces a meaningful insight they did not already know, for example:
-
-“Your expenses increased 18%, while revenue increased only 4%. At this trend, monthly profit could be ~$2,900 lower next month.”
-
-This is the moment FinWise becomes: “My money, finally clear.”
-
+The user connects their real financial data, and FinWise surfaces a meaningful insight they didn’t already know.
+For example: “We found something worth your attention: expenses are up 18% while revenue is up only 4%, putting next month’s profit on track to be ~$2,900 lower.”
+This is the first moment FinWise tells the user something new and actionable about their own business, within roughly 10 seconds of connecting their data.
 _____
 
 ## Onboarding prototype
