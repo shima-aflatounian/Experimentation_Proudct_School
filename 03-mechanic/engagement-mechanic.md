@@ -112,7 +112,7 @@ _____
 ## Wireframe
 
 _A link or image of the mechanic in context._
-![FinWise Cash Safety Buffer](./cash-safety-buffer.png)
+<img width="1280" height="1800" alt="1_cash_safety_buffer (1)" src="https://github.com/user-attachments/assets/a4976125-66ca-4f76-b6e7-58a3273329f8" />
 
 The wireframe shows:
 
