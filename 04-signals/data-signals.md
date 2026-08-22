@@ -124,12 +124,9 @@ Collaboration should be measured separately:
 
 ## Dashboard
 
-
-
 <img width="1273" height="733" alt="Screenshot 2026-08-22 at 12 51 33 PM" src="https://github.com/user-attachments/assets/2d598572-5f23-4b7a-aee9-2ef89dcbfe88" />
 <img width="1273" height="794" alt="Screenshot 2026-08-22 at 12 51 41 PM" src="https://github.com/user-attachments/assets/28ec52f0-5279-4dcf-97c8-eab4b0026143" />
 <img width="1273" height="674" alt="Screenshot 2026-08-22 at 12 51 47 PM" src="https://github.com/user-attachments/assets/75faf7ff-847b-4b58-b72e-b7cc155e424a" />
-<img width="1273" height="794" alt="Screenshot 2026-08-22 at 12 51 41 PM" src="https://github.com/user-attachments/assets/bf0fb4bb-06b6-4128-a4ec-f95bb366e3a6" />
 
 The dashboard visualizes all five required 13-month trends and compares the chosen leading indicator with Trial-to-Paid Conversion.
 
